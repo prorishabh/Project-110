@@ -1,0 +1,42 @@
+#gif
+{
+    width: 10%;
+}
+
+.test_image_and_result
+{
+    margin-top: 15px;
+    margin-left: 15px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 1px 1px 25px grey;
+    width: 40%;
+    margin-bottom: 15px;
+    left: 0;
+    padding: 20px;
+}
+
+.img-responsive
+{
+    width: 40%;
+}
+
+b
+{
+    color: purple;
+}
+
+h4
+{
+    color: black;
+}
+
+.bob3
+{
+    background-color: rgb(193, 193, 193);
+    padding: 8px;
+    border-radius: 15px;
+    text-align: center;
+    width: 50%;
+}
+
